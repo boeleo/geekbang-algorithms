@@ -2,11 +2,11 @@
 
 ## 简单
 
-* [ ] 写一个关于 HashMap 的小总结。
-** 说明：对于不熟悉 Java 语言的同学，此项作业可选做。
-* [ ] [242.有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)（亚马逊、Facebook、谷歌在半年内面试中考过）
-* [ ] [1.两数之和](https://leetcode-cn.com/problems/two-sum/)（近半年内，亚马逊考查此题达到 216 次、字节跳动 147 次、谷歌 104 次，Facebook、苹果、微软、腾讯也在近半年内面试常考）
-* [ ] [589.N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)（亚马逊在半年内面试中考过）
+* [x] 写一个关于 HashMap 的小总结。
+    * 说明：对于不熟悉 Java 语言的同学，此项作业可选做。
+* [x] [242.有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)（亚马逊、Facebook、谷歌在半年内面试中考过）
+* [x] [1.两数之和](https://leetcode-cn.com/problems/two-sum/)（近半年内，亚马逊考查此题达到 216 次、字节跳动 147 次、谷歌 104 次，Facebook、苹果、微软、腾讯也在近半年内面试常考）
+* [x] [589.N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)（亚马逊在半年内面试中考过）
 * [ ] HeapSort ：自学 https://www.geeksforgeeks.org/heap-sort/
 
 ## 中等

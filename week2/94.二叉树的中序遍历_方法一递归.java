@@ -27,7 +27,7 @@ import java.util.List;
 
 /**
  * 方法一：递归法
- * 时间复杂度：O(n)，n 为结点数
+ * 时间复杂度：O(n)，n 为节点数
  * 空间复杂度：O(n)，为存储遍历结果的开销。
  */
 class Solution {

@@ -28,7 +28,7 @@ import java.util.List;
 
 /**
  * 方法二：迭代法
- * 时间复杂度：O(n)，n 为结点数
+ * 时间复杂度：O(n)，n 为节点数
  * 空间复杂度：O(n)，取决于栈的深度。
  */
 class Solution {

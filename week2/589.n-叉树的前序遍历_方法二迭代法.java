@@ -2,8 +2,6 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.w3c.dom.Node;
-
 /*
  * @lc app=leetcode.cn id=589 lang=java
  *

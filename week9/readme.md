@@ -3,7 +3,7 @@
 ## 简单
 
 * [ ] 用自己熟悉的编程语言，手写各种初级排序代码，提交到学习总结中。
-* [ ] [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)（谷歌在半年内面试中考过）
+* [x] [1122.数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)（谷歌在半年内面试中考过）
 * [ ] [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)（Facebook、亚马逊、谷歌在半年内面试中考过）
 * [ ] [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)（微软、字节跳动、苹果在半年内面试中考过）
 * [ ] [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)（谷歌、亚马逊、微软在半年内面试中考过）
@@ -22,4 +22,4 @@
 * [ ] [翻转对](https://leetcode-cn.com/problems/reverse-pairs/)（字节跳动在半年内面试中考过）
 * [ ] [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)（亚马逊、字节跳动、华为在半年内面试中考过）
 * [ ] [赛车](https://leetcode-cn.com/problems/race-car/)（谷歌在半年内面试中考过）
-* [] [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)（MathWorks 在半年内面试中考过）
+* [ ] [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)（MathWorks 在半年内面试中考过）
